@@ -40,7 +40,7 @@ Thus, you need to:
 - Create an experiment to measure the LuL of your connection. Write the pipeline and report your results. For comparison, also report the idle latency (i.e., when no speed test is running).
 
 ## Deliverables
-- You should submit three different Python files: part1.py, part2.py, and part3.py, each implementing the respective parts of the assignment. These files should be designed to run in a standalone manner with a local netUnicorn environemnt. 
+- You should submit three different Python files: `part1.py`, `part2.py`, and `part3.py`, each implementing the respective parts of the assignment. These files should be designed to run in a standalone manner with a local netUnicorn environemnt. 
 - Submit your observations in a single PDF file.
 
 
